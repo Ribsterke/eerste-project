@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="y(JM7f$Q9e?YvhD]T/68" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="cutebot_forward" id="0yY!u,oQW{E0tByu0aGK"></block></statement></block></xml>
